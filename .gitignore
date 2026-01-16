@@ -19,3 +19,4 @@ __pycache__/
 
 # Claude Code
 .claude/
+.DS_Store
